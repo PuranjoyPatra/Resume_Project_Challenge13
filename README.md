@@ -32,7 +32,7 @@ Goodcabs, a leading cab service in tier-2 Indian cities, aims to evaluate its 20
 
 ## Live Dashboard:
 
-Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjMyMzJiZGUtZGQ0OC00MjgzLTk0MWYtMzIyYjE2ZTJlOTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0d1e2de5723a3196858a)
+Checkout the live dashboard here 👉🏻 [Live Dashboard](https://shorturl.at/K6C2w)
 
 
 ## Tools & Technique:
