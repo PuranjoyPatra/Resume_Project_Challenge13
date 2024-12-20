@@ -24,7 +24,7 @@ Goodcabs, a leading cab service in tier-2 Indian cities, aims to evaluate its 20
 ## Project Presentation:
 
 <p align="center">
-<a href="https://youtu.be/iF-XqfuCFfs" target="_blank">
+<a href="https://youtu.be/Mt6Jaf3Tkus" target="_blank">
   <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/rpc13-project-thumbnail.png" alt="Presentation Preview" style="width: 70%; max-width: 360px;">
   
 </a>
@@ -32,7 +32,7 @@ Goodcabs, a leading cab service in tier-2 Indian cities, aims to evaluate its 20
 
 ## Live Dashboard:
 
-Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjMyMzJiZGUtZGQ0OC00MjgzLTk0MWYtMzIyYjE2ZTJlOTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjMyMzJiZGUtZGQ0OC00MjgzLTk0MWYtMzIyYjE2ZTJlOTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0d1e2de5723a3196858a)
 
 
 ## Tools & Technique:
@@ -51,6 +51,7 @@ Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.c
 
 - Video Recording & Presentation
    - OBS Studio
+   - Canva (for thumbnail)
    - Microsoft Clipchamp - Video Editor
    - Microsoft Power Point
 
@@ -110,7 +111,8 @@ Here you can check the Data Model which is used for this project.
 
 1. Total Trips
 2. Total Fare (Revenue)
-3. Total Distance Travelled 4. Average Rating
+3. Total Distance Travelled 
+4. Average Rating
   - Passenger Rating
   - Driver Rating
 5. Average Fare per Trip (Average Trip Cost)
@@ -138,29 +140,38 @@ Here you can check the Data Model which is used for this project.
 <p align="center">
   <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/Dashboard_Preview/D-Home-Page.png" alt="Home Page">
 </p>
+<br>
+<hr>
+<br>
 
 <p align="center"> <strong>Trip View </strong></p>
 <p align="center"> Provides insights on the proportion of new vs. repeat trips, helping gauge passenger loyalty. Displays the average number of trips per driver, highlighting workload imbalances. Analyzes average trip durations and identifies delays based on city and time patterns.
  </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/Dashboard_Preview/D-Trip-View.png" alt="Trip View Page">
+  <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/Dashboard_Preview/D-Trip-View-Page.png" alt="Trip View Page">
 </p>
+<br>
+<hr>
+<br>
 
 <p align="center"><strong> Passenger View </strong></p>
 <p align="center"> Measures passenger satisfaction levels per city to evaluate service quality. Tracks the percentage of repeat passengers, indicating customer retention success. Breaks down passenger demographics (age, gender) to understand key customer segments.
  </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/Dashboard_Preview/D-Passenger-View.png" alt="Passenger View Page">
+  <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/Dashboard_Preview/D-Passenger-View-Page.png" alt="Passenger View Page">
 </p>
+<br>
+<hr>
+<br>
 
 <p align="center"><strong> Operation View </strong></p>
 <p align="center"> Shows trip volume trends across 10 tier-2 cities, highlighting total trips completed per month. Compares city-wise trip distribution, identifying high and low-performing cities. Tracks vehicle utilization and peak-month trip data to identify bottlenecks.
  </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/Dashboard_Preview/D-Operation-View.png" alt="Operation View Page">
+  <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/Dashboard_Preview/D-Operation-View-Page.png" alt="Operation View Page">
 </p>
 
 
